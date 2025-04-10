@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+h1{
+font-size: 3em;
+color: brown;
+}
+h2{
+    font-size: 2em;
+}
